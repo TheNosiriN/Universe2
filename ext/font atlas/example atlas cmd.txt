@@ -1,0 +1,1 @@
+msdf-atlas-gen -type mtsdf -pots -format png -font "../../assets/fonts/RobotoMono/RobotoMono-Regular.ttf" -size 64 -imageout ../../assets/fonts/RobotoMono/atlas.png -json ../../assets/fonts/RobotoMono/metadata.json
